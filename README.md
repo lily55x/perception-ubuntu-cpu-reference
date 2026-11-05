@@ -127,3 +127,4 @@ YOLO26n 的 n 表示 nano，适合先在 CPU 上进行轻量实践。当前使�
 - PyTorch CPU 安装源：https://download.pytorch.org/whl/cpu
 
 若权重缺失，请从上述官方链接下载为 `models/yolo26n.pt`；下载失败时排查网络，文件名保持一致。
+1
